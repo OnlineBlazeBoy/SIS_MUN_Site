@@ -1,5 +1,5 @@
 # MUN-website
-A website for Venkatji
+A website for Venkat
 
 A website for Stonehill Model United Nations 2019
 
