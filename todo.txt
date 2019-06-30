@@ -1,0 +1,11 @@
+->logo png []
+-> google maps [/]
+-> schedule [ / ]
+-> contact info [/]
+-> image [ ]
+//have added sample photos
+//secondary color
+
+
+
+image dimensions: 450 x 650; 450 x 450;
