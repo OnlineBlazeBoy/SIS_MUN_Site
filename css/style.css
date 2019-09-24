@@ -207,6 +207,10 @@ textarea.input {
   display: none;
 }
 
+.logo img{
+  background-color: transparent;
+}
+
 /*=========================================================
 	NAVIGATION
 ===========================================================*/
