@@ -134,7 +134,7 @@ textarea.input {
 }
 
 .section-bg {
-  opacity: 0.8;
+  opacity: 0.7;
   position: absolute;
   left: 0;
   top: 0;
@@ -524,7 +524,7 @@ textarea.input {
 
 .speaker .speaker-content {
   position: relative;
-  padding: 30px;
+  padding: 5px;
   background: #dd0a37;
   text-align: right;
   z-index: 20;
