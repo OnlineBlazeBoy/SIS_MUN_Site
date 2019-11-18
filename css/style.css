@@ -508,7 +508,6 @@ textarea.input {
 }
 
 .speaker:hover:after {
-  opacity: 0.8;
 }
 
 .speaker .speaker-img>img {
